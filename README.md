@@ -57,6 +57,10 @@ credit: [https://github.com/Kushalbhavsar/Liquid-Menu-Buttons/tree/main](https:/
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=KPYN6sjWvlA)
 
+# [ShapeMorphing](https://github.com/samgusa/FunAnimations/tree/main/ShapeMorphingTest)
+<img height="400" src="https://github.com/samgusa/FunAnimations/assets/45985527/2e81d0fb-ea88-41f1-8252-ba09084529df">
+
+credit: [Kavsoft](https://www.youtube.com/watch?v=HVNxfI8XYMw)
 # [Shimmer](https://github.com/samgusa/FunAnimations/tree/main/ShimmerTest)
 <img height="400" src="https://github.com/samgusa/FunAnimations/assets/45985527/537ee756-87cf-41c4-913f-df3dcef9efcb">
 
