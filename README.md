@@ -47,6 +47,11 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=8sgjvgBasYM)
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=AjiLR9ORhzM)
 
+# [InfiniteScroll](https://github.com/samgusa/FunAnimations/tree/main/InfiniteCarousel)
+<img height="400" src="https://github.com/samgusa/FunAnimations/assets/45985527/b0563d71-5f3f-462c-98f6-5958593b6087">
+
+credit: [Kavsoft](https://www.youtube.com/watch?v=Yg2wh9uJ9Fk)
+
 # [LiquidButton](https://github.com/samgusa/FunAnimations/tree/main/LiquidButtonTest)
 <img height="400" src="https://github.com/samgusa/FunAnimations/assets/45985527/4bc94be5-cce0-4f86-b84a-8670114842d2">
 
