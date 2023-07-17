@@ -24,7 +24,6 @@ credit: [DesignCode](https://www.youtube.com/watch?v=f0wYIYfPBa4)
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=Xjp1bIoSOHs)
 
-
 # [FigitTest](https://github.com/samgusa/FunAnimations/tree/main/FigitTest)
 
 <img height="400" src="https://github.com/samgusa/FunAnimations/assets/45985527/6959a3d2-45a4-49b3-8fa0-b3962b734e91">
@@ -66,6 +65,7 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=KPYN6sjWvlA)
 <img height="400" src="https://github.com/samgusa/FunAnimations/assets/45985527/2e81d0fb-ea88-41f1-8252-ba09084529df">
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=HVNxfI8XYMw)
+
 # [Shimmer](https://github.com/samgusa/FunAnimations/tree/main/ShimmerTest)
 <img height="400" src="https://github.com/samgusa/FunAnimations/assets/45985527/537ee756-87cf-41c4-913f-df3dcef9efcb">
 
@@ -99,13 +99,11 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=XZuc8WnZIS4&t=2s)
 
 credit: [https://github.com/pratikg29/CustomTabBar](https://github.com/pratikg29/CustomTabBar)
 
-
 # [ToggleTest](https://github.com/samgusa/FunAnimations/tree/main/ToggleTest)
 
 <img height="400" src="https://github.com/samgusa/FunAnimations/assets/45985527/3f282e29-08a7-4655-9c5d-80163a03c611">
 
 credit: [https://github.com/ordinaryindustries/rubber-band-toggle/tree/main](https://github.com/ordinaryindustries/rubber-band-toggle/tree/main)
-
 
 # [UnderlineTabBar](https://github.com/samgusa/FunAnimations/tree/main/UnderlineTabBarTest)
 
