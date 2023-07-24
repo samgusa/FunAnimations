@@ -12,13 +12,13 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=TTftmkW9N8s&t=4s)
 
 credit: [https://github.com/vijaywargiya/LegoLoadingAnimation-SwiftUI/tree/main](https://github.com/vijaywargiya/LegoLoadingAnimation-SwiftUI/tree/main)
 
-# [CustomKeyboardTest]()
+# [CustomKeyboardTest](https://github.com/samgusa/FunAnimations/tree/main/CustomKeyboardTest)
 
 <img height="400" src="https://github.com/samgusa/FunAnimations/assets/45985527/f8c3980f-b4d9-4cba-af2a-3bdbc3a2551e">
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=jNpdpO32Pjs)
 
-# [CustomTransitionTest](https://github.com/samgusa/FunAnimations/tree/main/CustomKeyboardTest)
+# [CustomTransitionTest](https://github.com/samgusa/FunAnimations/tree/main/CustomTransitionTest)
 
 <img height="400" src="https://github.com/samgusa/FunAnimations/assets/45985527/58093ab5-378c-44af-824d-8e1dda6a5a9f">
 
