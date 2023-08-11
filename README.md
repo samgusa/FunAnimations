@@ -73,6 +73,12 @@ credit: [https://github.com/Kushalbhavsar/Liquid-Menu-Buttons/tree/main](https:/
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=KPYN6sjWvlA)
 
+# [ScrollHideTest](https://github.com/samgusa/FunAnimations/tree/main/ScrollHideTest)
+
+<img src="ScrollHideTest/ScrollHideTest.gif" alt="" width="100" height="200">
+
+credit: [Kavsoft](https://www.youtube.com/watch?v=Q0rb4M6n2ns&t=15s)
+
 # [ShapeMorphing](https://github.com/samgusa/FunAnimations/tree/main/ShapeMorphingTest)
 
 <img src="ShapeMorphingTest/ShapeMorphingTest.gif" alt="" width="100" height="200">
