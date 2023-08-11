@@ -57,7 +57,7 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=AjiLR9ORhzM)
 
 # [InfiniteScroll](https://github.com/samgusa/FunAnimations/tree/main/InfiniteCarousel)
 
-<img src="InfiniteCarouselTest/InfiniteScroll.gif" alt="" width="150" height="300">
+<img src="InfiniteCarousel/InfiniteScroll.gif" alt="" width="150" height="300">
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=Yg2wh9uJ9Fk)
 
