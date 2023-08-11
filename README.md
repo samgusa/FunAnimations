@@ -45,25 +45,25 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=jWvNdSetIXo&t=19s)
 
 # [Hero Animation2](https://github.com/samgusa/FunAnimations/tree/main/HeroAnimation2Test)
 
-<img src="HeroAnimation2Test/HeroAnimation2.gif" alt="" width="150" height="300">
+<img src="HeroAnimation2Test/Hero Animation2.gif" alt="" width="150" height="300">
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=8sgjvgBasYM)
 
 # [Hero Animation](https://github.com/samgusa/FunAnimations/tree/main/HeroAnimationTest)
 
-<img src="HeroAnimationTest/HeroAnimationTest.gif" alt="" width="150" height="300">
+<img src="HeroAnimationTest/Hero AnimationTest.gif" alt="" width="150" height="300">
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=AjiLR9ORhzM)
 
 # [InfiniteScroll](https://github.com/samgusa/FunAnimations/tree/main/InfiniteCarousel)
 
-<img src="InfiniteScrollTest/InfiniteScrollTest.gif" alt="" width="150" height="300">
+<img src="InfiniteScrollTest/InfiniteScroll.gif" alt="" width="150" height="300">
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=Yg2wh9uJ9Fk)
 
 # [LiquidButton](https://github.com/samgusa/FunAnimations/tree/main/LiquidButtonTest)
 
-<img src="LiquidButtonTest/LiquidButtonTest.gif" alt="" width="150" height="300">
+<img src="LiquidButtonTest/LiquidButton.gif" alt="" width="150" height="300">
 
 credit: [https://github.com/Kushalbhavsar/Liquid-Menu-Buttons/tree/main](https://github.com/Kushalbhavsar/Liquid-Menu-Buttons/tree/main)
 
@@ -100,11 +100,11 @@ credit: [https://www.youtube.com/watch?v=gKDHWT1MPOY](https://www.youtube.com/wa
 # [TabbarTest](https://github.com/samgusa/FunAnimations/tree/main/TabBarTest)
 
 <p float="left">
-  <img src="TabbarTest/TabbarTest1.gif" alt="" width="150" height="300">
+  <img src="TabBarTest/TabbarTest1.gif" alt="" width="150" height="300">
   &nbsp;&nbsp;&nbsp;
-  <img src="TabbarTest/TabbarTest2.gif" alt="" width="150" height="300">
+  <img src="TabBarTest/TabbarTest2.gif" alt="" width="150" height="300">
   &nbsp;&nbsp;&nbsp;
-  <img src="TabbarTest/TabbarTest3.gif" alt="" width="150" height="300">
+  <img src="TabBarTest/TabbarTest3.gif" alt="" width="150" height="300">
 </p>
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=Lw-vimpu6Cs&t=3s)
