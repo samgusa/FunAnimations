@@ -51,13 +51,13 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=8sgjvgBasYM)
 
 # [Hero Animation](https://github.com/samgusa/FunAnimations/tree/main/HeroAnimationTest)
 
-<img src="HeroAnimationTest/Hero AnimationTest.gif" alt="" width="150" height="300">
+<img src="HeroAnimationTest/Hero Animation.gif" alt="" width="150" height="300">
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=AjiLR9ORhzM)
 
 # [InfiniteScroll](https://github.com/samgusa/FunAnimations/tree/main/InfiniteCarousel)
 
-<img src="InfiniteScrollTest/InfiniteScroll.gif" alt="" width="150" height="300">
+<img src="InfiniteCarouselTest/InfiniteScroll.gif" alt="" width="150" height="300">
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=Yg2wh9uJ9Fk)
 
