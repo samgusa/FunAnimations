@@ -2,13 +2,14 @@
 
 # [AddToBagAnimationTest](https://github.com/samgusa/FunAnimations/tree/main/AddToBagAnimationTest)
 
-<img height="400" src="https://github.com/samgusa/FunAnimations/assets/45985527/e41d1fc6-7307-4577-b225-a997d0a15b4e">
+<img src="AddToBagAnimationTest/AddToBagAnimation.gif" alt="" width="200" height="400">
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=TTftmkW9N8s&t=4s)
 
 
 # [BlockTest](https://github.com/samgusa/FunAnimations/tree/main/BlockTest)
-<img height="400" src="https://github.com/samgusa/FunAnimations/assets/45985527/ebc8331d-17d2-4f6d-add6-1774e9b31faf">
+
+<img src="BlockTest/BlockTest.gif" alt="" width="200" height="400">
 
 credit: [https://github.com/vijaywargiya/LegoLoadingAnimation-SwiftUI/tree/main](https://github.com/vijaywargiya/LegoLoadingAnimation-SwiftUI/tree/main)
 
