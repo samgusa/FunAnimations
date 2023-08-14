@@ -6,6 +6,12 @@
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=TTftmkW9N8s&t=4s)
 
+# [AnimatedTagsTest](https://github.com/samgusa/FunAnimations/tree/main/AnimatedTagsTest)
+
+<img src="AnimatedTagsTest/AnimatedTagsTest.gif" alt="" width="100" height="200">
+
+credit: [Kavsoft](https://www.youtube.com/watch?v=FzL11vRhzs8)
+
 
 # [BlockTest](https://github.com/samgusa/FunAnimations/tree/main/BlockTest)
 
