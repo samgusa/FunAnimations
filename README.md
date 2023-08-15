@@ -43,6 +43,12 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=Xjp1bIoSOHs)
 
 credit: [https://github.com/Kushalbhavsar/FidgetText](https://github.com/Kushalbhavsar/FidgetText)
 
+# [GestureExpansionTest](https://github.com/samgusa/FunAnimations/tree/main/GestureExpansionTest)
+
+<img src="GestureExpansionTest/GestureExpansionTest.gif" alt="" width="100" height="200">
+
+credit: [Kavsoft](https://www.youtube.com/watch?v=4S3wwf2JcBE)
+
 # [GooeyTest](https://github.com/samgusa/FunAnimations/tree/main/GooeyTest)
 
 <img src="GooeyTest/GooeyTest.gif" alt="" width="100" height="200">
