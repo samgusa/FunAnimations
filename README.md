@@ -58,11 +58,11 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=jWvNdSetIXo&t=19s)
 ## [GradientBorderTest](https://github.com/samgusa/FunAnimations/tree/main/GradientBorderTest)
 
 <p float="left">
-  <img src="GradientBorderTest1.gif" alt="" width="100" height="200">
+  <img src="GradientBorderTest/GradientBorderTest1.gif" alt="" width="100" height="200">
   &nbsp;&nbsp;&nbsp;
-  <img src="GradientBorderTest2.gif" alt="" width="100" height="200">
+  <img src="GradientBorderTest/GradientBorderTest2.gif" alt="" width="100" height="200">
   &nbsp;&nbsp;&nbsp;
-  <img src="GradientBorderTest3.gif" alt="" width="100" height="200">
+  <img src="GradientBorderTest/GradientBorderTest3.gif" alt="" width="100" height="200">
 </p>
 
 credit: [SuCodee](https://www.youtube.com/watch?v=PZNGUARnAjU)
