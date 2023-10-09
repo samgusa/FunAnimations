@@ -67,6 +67,12 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=jWvNdSetIXo&t=19s)
 
 credit: [SuCodee](https://www.youtube.com/watch?v=PZNGUARnAjU)
 
+## [GridTest](https://github.com/samgusa/FunAnimations/tree/main/GridTest)
+
+<img src="GridTest/GridTest.gif" alt="" width="100" height="200">
+
+credit: [Kavsoft](https://www.youtube.com/watch?v=UFiOCcm6zTo&t=26s)
+
 # [Hero Animation2](https://github.com/samgusa/FunAnimations/tree/main/HeroAnimation2Test)
 
 <img src="HeroAnimation2Test/Hero Animation2.gif" alt="" width="100" height="200">
@@ -96,6 +102,12 @@ credit: [https://github.com/Kushalbhavsar/Liquid-Menu-Buttons/tree/main](https:/
 <img src="LoginTest/LoginTest.gif" alt="" width="100" height="200">
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=KPYN6sjWvlA)
+
+## [ParallaxCarouselTest](https://github.com/samgusa/FunAnimations/tree/main/ParallaxCarouselTest)
+
+<img src="ParallaxCarouselTest/parallaxCarouselTest.gif" alt="" width="100" height="200">
+
+credit: [Kavsoft](https://www.youtube.com/watch?v=3zBSgXoSugU&t=13s)
 
 # [ScrollHideTest](https://github.com/samgusa/FunAnimations/tree/main/ScrollHideTest)
 
