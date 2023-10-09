@@ -1,0 +1,601 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FEEC9E5C2AD36ECB008A9444 /* GradientBorderTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEC9E5B2AD36ECB008A9444 /* GradientBorderTestApp.swift */; };
+		FEEC9E5E2AD36ECB008A9444 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEC9E5D2AD36ECB008A9444 /* ContentView.swift */; };
+		FEEC9E602AD36ECC008A9444 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEEC9E5F2AD36ECC008A9444 /* Assets.xcassets */; };
+		FEEC9E632AD36ECC008A9444 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEEC9E622AD36ECC008A9444 /* Preview Assets.xcassets */; };
+		FEEC9E6D2AD36ECC008A9444 /* GradientBorderTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEC9E6C2AD36ECC008A9444 /* GradientBorderTestTests.swift */; };
+		FEEC9E772AD36ECC008A9444 /* GradientBorderTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEC9E762AD36ECC008A9444 /* GradientBorderTestUITests.swift */; };
+		FEEC9E792AD36ECC008A9444 /* GradientBorderTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEC9E782AD36ECC008A9444 /* GradientBorderTestUITestsLaunchTests.swift */; };
+		FEEC9E862AD373EC008A9444 /* DarkCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEC9E852AD373EC008A9444 /* DarkCard.swift */; };
+		FEEC9E882AD48F50008A9444 /* ColorsCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEC9E872AD48F50008A9444 /* ColorsCard.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FEEC9E692AD36ECC008A9444 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FEEC9E502AD36ECB008A9444 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FEEC9E572AD36ECB008A9444;
+			remoteInfo = GradientBorderTest;
+		};
+		FEEC9E732AD36ECC008A9444 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FEEC9E502AD36ECB008A9444 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FEEC9E572AD36ECB008A9444;
+			remoteInfo = GradientBorderTest;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FEEC9E582AD36ECB008A9444 /* GradientBorderTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GradientBorderTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEEC9E5B2AD36ECB008A9444 /* GradientBorderTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBorderTestApp.swift; sourceTree = "<group>"; };
+		FEEC9E5D2AD36ECB008A9444 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FEEC9E5F2AD36ECC008A9444 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FEEC9E622AD36ECC008A9444 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FEEC9E682AD36ECC008A9444 /* GradientBorderTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GradientBorderTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEEC9E6C2AD36ECC008A9444 /* GradientBorderTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBorderTestTests.swift; sourceTree = "<group>"; };
+		FEEC9E722AD36ECC008A9444 /* GradientBorderTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GradientBorderTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEEC9E762AD36ECC008A9444 /* GradientBorderTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBorderTestUITests.swift; sourceTree = "<group>"; };
+		FEEC9E782AD36ECC008A9444 /* GradientBorderTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBorderTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FEEC9E852AD373EC008A9444 /* DarkCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkCard.swift; sourceTree = "<group>"; };
+		FEEC9E872AD48F50008A9444 /* ColorsCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsCard.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FEEC9E552AD36ECB008A9444 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEEC9E652AD36ECC008A9444 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEEC9E6F2AD36ECC008A9444 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FEEC9E4F2AD36ECB008A9444 = {
+			isa = PBXGroup;
+			children = (
+				FEEC9E5A2AD36ECB008A9444 /* GradientBorderTest */,
+				FEEC9E6B2AD36ECC008A9444 /* GradientBorderTestTests */,
+				FEEC9E752AD36ECC008A9444 /* GradientBorderTestUITests */,
+				FEEC9E592AD36ECB008A9444 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FEEC9E592AD36ECB008A9444 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FEEC9E582AD36ECB008A9444 /* GradientBorderTest.app */,
+				FEEC9E682AD36ECC008A9444 /* GradientBorderTestTests.xctest */,
+				FEEC9E722AD36ECC008A9444 /* GradientBorderTestUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FEEC9E5A2AD36ECB008A9444 /* GradientBorderTest */ = {
+			isa = PBXGroup;
+			children = (
+				FEEC9E5B2AD36ECB008A9444 /* GradientBorderTestApp.swift */,
+				FEEC9E5D2AD36ECB008A9444 /* ContentView.swift */,
+				FEEC9E852AD373EC008A9444 /* DarkCard.swift */,
+				FEEC9E872AD48F50008A9444 /* ColorsCard.swift */,
+				FEEC9E5F2AD36ECC008A9444 /* Assets.xcassets */,
+				FEEC9E612AD36ECC008A9444 /* Preview Content */,
+			);
+			path = GradientBorderTest;
+			sourceTree = "<group>";
+		};
+		FEEC9E612AD36ECC008A9444 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				FEEC9E622AD36ECC008A9444 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FEEC9E6B2AD36ECC008A9444 /* GradientBorderTestTests */ = {
+			isa = PBXGroup;
+			children = (
+				FEEC9E6C2AD36ECC008A9444 /* GradientBorderTestTests.swift */,
+			);
+			path = GradientBorderTestTests;
+			sourceTree = "<group>";
+		};
+		FEEC9E752AD36ECC008A9444 /* GradientBorderTestUITests */ = {
+			isa = PBXGroup;
+			children = (
+				FEEC9E762AD36ECC008A9444 /* GradientBorderTestUITests.swift */,
+				FEEC9E782AD36ECC008A9444 /* GradientBorderTestUITestsLaunchTests.swift */,
+			);
+			path = GradientBorderTestUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FEEC9E572AD36ECB008A9444 /* GradientBorderTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FEEC9E7C2AD36ECC008A9444 /* Build configuration list for PBXNativeTarget "GradientBorderTest" */;
+			buildPhases = (
+				FEEC9E542AD36ECB008A9444 /* Sources */,
+				FEEC9E552AD36ECB008A9444 /* Frameworks */,
+				FEEC9E562AD36ECB008A9444 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GradientBorderTest;
+			productName = GradientBorderTest;
+			productReference = FEEC9E582AD36ECB008A9444 /* GradientBorderTest.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FEEC9E672AD36ECC008A9444 /* GradientBorderTestTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FEEC9E7F2AD36ECC008A9444 /* Build configuration list for PBXNativeTarget "GradientBorderTestTests" */;
+			buildPhases = (
+				FEEC9E642AD36ECC008A9444 /* Sources */,
+				FEEC9E652AD36ECC008A9444 /* Frameworks */,
+				FEEC9E662AD36ECC008A9444 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FEEC9E6A2AD36ECC008A9444 /* PBXTargetDependency */,
+			);
+			name = GradientBorderTestTests;
+			productName = GradientBorderTestTests;
+			productReference = FEEC9E682AD36ECC008A9444 /* GradientBorderTestTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FEEC9E712AD36ECC008A9444 /* GradientBorderTestUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FEEC9E822AD36ECC008A9444 /* Build configuration list for PBXNativeTarget "GradientBorderTestUITests" */;
+			buildPhases = (
+				FEEC9E6E2AD36ECC008A9444 /* Sources */,
+				FEEC9E6F2AD36ECC008A9444 /* Frameworks */,
+				FEEC9E702AD36ECC008A9444 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FEEC9E742AD36ECC008A9444 /* PBXTargetDependency */,
+			);
+			name = GradientBorderTestUITests;
+			productName = GradientBorderTestUITests;
+			productReference = FEEC9E722AD36ECC008A9444 /* GradientBorderTestUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FEEC9E502AD36ECB008A9444 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					FEEC9E572AD36ECB008A9444 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+					FEEC9E672AD36ECC008A9444 = {
+						CreatedOnToolsVersion = 15.0;
+						TestTargetID = FEEC9E572AD36ECB008A9444;
+					};
+					FEEC9E712AD36ECC008A9444 = {
+						CreatedOnToolsVersion = 15.0;
+						TestTargetID = FEEC9E572AD36ECB008A9444;
+					};
+				};
+			};
+			buildConfigurationList = FEEC9E532AD36ECB008A9444 /* Build configuration list for PBXProject "GradientBorderTest" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FEEC9E4F2AD36ECB008A9444;
+			productRefGroup = FEEC9E592AD36ECB008A9444 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FEEC9E572AD36ECB008A9444 /* GradientBorderTest */,
+				FEEC9E672AD36ECC008A9444 /* GradientBorderTestTests */,
+				FEEC9E712AD36ECC008A9444 /* GradientBorderTestUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FEEC9E562AD36ECB008A9444 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FEEC9E632AD36ECC008A9444 /* Preview Assets.xcassets in Resources */,
+				FEEC9E602AD36ECC008A9444 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEEC9E662AD36ECC008A9444 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEEC9E702AD36ECC008A9444 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FEEC9E542AD36ECB008A9444 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FEEC9E5E2AD36ECB008A9444 /* ContentView.swift in Sources */,
+				FEEC9E5C2AD36ECB008A9444 /* GradientBorderTestApp.swift in Sources */,
+				FEEC9E862AD373EC008A9444 /* DarkCard.swift in Sources */,
+				FEEC9E882AD48F50008A9444 /* ColorsCard.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEEC9E642AD36ECC008A9444 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FEEC9E6D2AD36ECC008A9444 /* GradientBorderTestTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEEC9E6E2AD36ECC008A9444 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FEEC9E792AD36ECC008A9444 /* GradientBorderTestUITestsLaunchTests.swift in Sources */,
+				FEEC9E772AD36ECC008A9444 /* GradientBorderTestUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FEEC9E6A2AD36ECC008A9444 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FEEC9E572AD36ECB008A9444 /* GradientBorderTest */;
+			targetProxy = FEEC9E692AD36ECC008A9444 /* PBXContainerItemProxy */;
+		};
+		FEEC9E742AD36ECC008A9444 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FEEC9E572AD36ECB008A9444 /* GradientBorderTest */;
+			targetProxy = FEEC9E732AD36ECC008A9444 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		FEEC9E7A2AD36ECC008A9444 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FEEC9E7B2AD36ECC008A9444 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FEEC9E7D2AD36ECC008A9444 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"GradientBorderTest/Preview Content\"";
+				DEVELOPMENT_TEAM = 4LBT7283WA;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Sam.GradientBorderTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FEEC9E7E2AD36ECC008A9444 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"GradientBorderTest/Preview Content\"";
+				DEVELOPMENT_TEAM = 4LBT7283WA;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Sam.GradientBorderTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		FEEC9E802AD36ECC008A9444 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4LBT7283WA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Sam.GradientBorderTestTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GradientBorderTest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/GradientBorderTest";
+			};
+			name = Debug;
+		};
+		FEEC9E812AD36ECC008A9444 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4LBT7283WA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Sam.GradientBorderTestTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GradientBorderTest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/GradientBorderTest";
+			};
+			name = Release;
+		};
+		FEEC9E832AD36ECC008A9444 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4LBT7283WA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Sam.GradientBorderTestUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = GradientBorderTest;
+			};
+			name = Debug;
+		};
+		FEEC9E842AD36ECC008A9444 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4LBT7283WA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Sam.GradientBorderTestUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = GradientBorderTest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FEEC9E532AD36ECB008A9444 /* Build configuration list for PBXProject "GradientBorderTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEEC9E7A2AD36ECC008A9444 /* Debug */,
+				FEEC9E7B2AD36ECC008A9444 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FEEC9E7C2AD36ECC008A9444 /* Build configuration list for PBXNativeTarget "GradientBorderTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEEC9E7D2AD36ECC008A9444 /* Debug */,
+				FEEC9E7E2AD36ECC008A9444 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FEEC9E7F2AD36ECC008A9444 /* Build configuration list for PBXNativeTarget "GradientBorderTestTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEEC9E802AD36ECC008A9444 /* Debug */,
+				FEEC9E812AD36ECC008A9444 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FEEC9E822AD36ECC008A9444 /* Build configuration list for PBXNativeTarget "GradientBorderTestUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEEC9E832AD36ECC008A9444 /* Debug */,
+				FEEC9E842AD36ECC008A9444 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FEEC9E502AD36ECB008A9444 /* Project object */;
+}
