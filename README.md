@@ -55,6 +55,18 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=4S3wwf2JcBE)
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=jWvNdSetIXo&t=19s)
 
+## [GradientBorderTest](https://github.com/samgusa/FunAnimations/tree/main/GradientBorderTest)
+
+<p float="left">
+  <img src="GradientBorderTest1.gif" alt="" width="100" height="200">
+  &nbsp;&nbsp;&nbsp;
+  <img src="GradientBorderTest2.gif" alt="" width="100" height="200">
+  &nbsp;&nbsp;&nbsp;
+  <img src="GradientBorderTest3.gif" alt="" width="100" height="200">
+</p>
+
+credit: [SuCodee](https://www.youtube.com/watch?v=PZNGUARnAjU)
+
 # [Hero Animation2](https://github.com/samgusa/FunAnimations/tree/main/HeroAnimation2Test)
 
 <img src="HeroAnimation2Test/Hero Animation2.gif" alt="" width="100" height="200">
