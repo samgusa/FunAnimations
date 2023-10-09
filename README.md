@@ -72,12 +72,6 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=AjiLR9ORhzM)
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=Yg2wh9uJ9Fk)
 
-# [LoginTest](https://github.com/samgusa/FunAnimations/tree/main/LoginTest)
-
-<img src="LoginTest/LoginTest.gif" alt="" width="100" height="200">
-
-credit: [Kavsoft](https://www.youtube.com/watch?v=KPYN6sjWvlA)
-
 # [ScrollHideTest](https://github.com/samgusa/FunAnimations/tree/main/ScrollHideTest)
 
 <img src="ScrollHideTest/ScrollHideTest.gif" alt="" width="100" height="200">
