@@ -18,12 +18,6 @@ credit: [https://github.com/vijaywargiya/LegoLoadingAnimation-SwiftUI/tree/main]
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=jNpdpO32Pjs)
 
-# [CustomTransitionTest](https://github.com/samgusa/FunAnimations/tree/main/CustomTransitionTest)
-
-<img src="CustomTransitionTest/CustomTransitionTest.gif" alt="" width="100" height="200">
-
-credit: [DesignCode](https://www.youtube.com/watch?v=f0wYIYfPBa4)
-
 # [ElasticTest](https://github.com/samgusa/FunAnimations/tree/main/ElasticTest)
 
 <img src="ElasticTest/ElasticTest.gif" alt="" width="100" height="200">
@@ -53,18 +47,6 @@ credit: [SuCodee](https://www.youtube.com/watch?v=PZNGUARnAjU)
 <img src="GridTest/GridTest.gif" alt="" width="100" height="200">
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=UFiOCcm6zTo&t=26s)
-
-# [Hero Animation2](https://github.com/samgusa/FunAnimations/tree/main/HeroAnimation2Test)
-
-<img src="HeroAnimation2Test/Hero Animation2.gif" alt="" width="100" height="200">
-
-credit: [Kavsoft](https://www.youtube.com/watch?v=8sgjvgBasYM)
-
-# [Hero Animation](https://github.com/samgusa/FunAnimations/tree/main/HeroAnimationTest)
-
-<img src="HeroAnimationTest/Hero Animation.gif" alt="" width="100" height="200">
-
-credit: [Kavsoft](https://www.youtube.com/watch?v=AjiLR9ORhzM)
 
 # [InfiniteScroll](https://github.com/samgusa/FunAnimations/tree/main/InfiniteCarousel)
 
